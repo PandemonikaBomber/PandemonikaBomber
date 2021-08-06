@@ -12,7 +12,7 @@
 <p align="center">A free and open-source SMS/Call bombing application</p>
 
 ## Notes:
-⚙ [Script Usage Guide](https://github.com/nordbearbotdev/Pandemonika#-usage-guide)
+⚙ [Script Usage Guide](https://github.com/PandemonikaBomber/PandemonikaBomber#-usage-guide)
 
 > ## DISCLAIMER:
 > **Developer will not be liable and will not become
@@ -53,7 +53,7 @@ or any version greater than or equal to 3.4, this script has been tested and con
 
 ```
 apt install python3 curl git -y
-git clone https://github.com/nordbearbotdevl/Pandemonika
+git clone https://github.com/PandemonikaBomber/PandemonikaBomber
 cd Pandemonika
 pip3 install -r requirements.txt
 python3 Pandemonika.py -m Number_of_messages -t victim's_ten_digit_mobile_no

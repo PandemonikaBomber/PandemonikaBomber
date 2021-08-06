@@ -64,12 +64,6 @@ python3 Pandemonika.py -m Number_of_messages -t victim's_ten_digit_mobile_no
 python3 Pandemonika.py -m 1000 -t 0000000000
 ```
 
-## Screenshot
-
-<a href="https://user-images.githubusercontent.com/70748280/111021820-08098580-83f5-11eb-9f64-41184fc7b9c7.png"><img alt="Screenshots" title="Screenshots" src="https://user-images.githubusercontent.com/70748280/111021820-08098580-83f5-11eb-9f64-41184fc7b9c7.png"/></a><br><br>
-Yeah, it does show Syntax Error but that doesn't actually matter...<br>
-Everytime it shows the error it sends a bombing request to the API.
-
 ## Contact me  
 
 For Queries: [My Twitter Profile](https://twitter.com/nordbearbot)

@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <a href="https://github.com/nordbearbotdev/Pandemonika">
-  <img src="https://1.bp.blogspot.com/-YJ0yHTgNa6c/YD4gkSYeWCI/AAAAAAAAbVo/Px7ODVFOEtkMGQ9F1m-X8xkceDya22BFwCLcBGAsYHQ/w200-h200/Tsunami.png"
+  <img src="https://disk.yandex.ru/i/s0L_P7mAjQpbYA
   alt="Tsunami">
   </a><br>
   Pandemonika v0.1 Alfa
